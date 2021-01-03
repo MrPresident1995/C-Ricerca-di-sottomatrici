@@ -7,6 +7,8 @@ preventivamente e M < N
 volte questa appare
 
 
+
+
     --Esempio--
 
     Siano data la matrice
